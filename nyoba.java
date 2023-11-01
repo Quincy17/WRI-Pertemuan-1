@@ -1,6 +1,7 @@
 public class nyoba{
     public static void main(String[] args) {
-        System.out.println("Pertemuan 1 WRI");
-        System.out.println("OII");
+        System.out.println("Saya Farrel Caesarian");
+        System.out.println("Mahasiswa Polinema");
+        System.out.println("Dari Jurusan TI");
     }
 }
